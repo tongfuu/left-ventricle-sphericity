@@ -1,6 +1,7 @@
 # Using the Rate of Change of Cross-Sectional Area Slices of the Left Ventricle as a Means for Quantifying Sphericity in 3D Cardiac Ultrasound Images
 
-**More info in the report!**
+**More info in the report and the demo video!**
+- demo of the automated software
 - abstract
 - background
 - Methods (image processing, sphericity index ratio calculation, etc.)
